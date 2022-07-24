@@ -1,0 +1,2 @@
+contactlist = [['FNU, Tripti', '912-4632'],['Jackson, Michael', '313-1111'],['Manfredi, Ralph', '872-2221'],['Robbins, Tony', '329-2310'],['Siemens, Harper', '323-4149'],['Smith, Patti', '239-1212'],['Thompson, Bobby', '365-2622'],['Ziegler, Zig', '667-1101'],
+]
